@@ -1,0 +1,2 @@
+Optional VS Code setting: install Extension Pack for Java.
+Maven commands are in README.md.
